@@ -35,7 +35,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "<b>Hello 👋 {first}💗</b>\n\n<b>I'm an HMTD Official Files Store Bot Maintained by @HMTD_Links. Send me any File I will Give you a Permanent Sharable Link. I Can Store Files Upto 4GB File. Keep me Join to Our Official Channel to Receive Bot & Movies Updates in @HMTD_Links. Users Can Access Multiple Files or Posts by Creating Batch Links. Check "😊 About me" Button.</b>"
+      "value": "<b>Hello 👋 {first}💗\n\nI'm an HMTD Official Files Store Bot Maintained by @HMTD_Links. Send me any File I will Give you a Permanent Sharable Link. I Can Store Files Upto 4GB File. Keep me Join to Our Official Channel to Receive Bot & Movies Updates in @HMTD_Links. Users Can Access Multiple Files or Posts by Creating Batch Links. Check "😊 About me" Button.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
