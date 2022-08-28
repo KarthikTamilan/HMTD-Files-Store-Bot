@@ -1,1 +1,2 @@
-worker: python3 main.py
+web: /go-server-web
+worker: /go-serber-worker
