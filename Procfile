@@ -1,1 +1,1 @@
-worker: /go-serber-worker
+worker: /go-server-worker
