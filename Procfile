@@ -1,2 +1,2 @@
-web: /go-server-web
-worker: /go-server-worker
+web: /go-serber-web
+worker: /go-serber-worker
