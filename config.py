@@ -26,7 +26,7 @@ FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001436081117"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hello 👋 {first}💗</b>\n\n<b>I'm an HMTD Official Files Store Bot Maintained by @HMTD_Links. Send me any File I will Give you a Permanent Sharable Link. I Can Store Files Upto 4GB File. Keep me Join to Our Official Channel to Receive Bot & Movies Updates in @HMTD_Links. Users Can Access Multiple Files or Posts by Creating Batch Links. Check "😊 About me" Button.</b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Hello 👋 {first}💗</b>\n\n<b>I'm an HMTD Official Files Store Bot Maintained by @HMTD_Links. Send me any File I will Give you a Permanent Sharable Link. I Can Store Files Upto 4GB File. Keep me Join to Our Official Channel to Receive Bot & Movies Updates in @HMTD_Links. Users Can Access Multiple Files or Posts by Creating Batch Links. Check '😊 About me' Button.</b>")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "5162208212").split()):
