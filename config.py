@@ -3,7 +3,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5487241899:AAF1MW4eqQeqbQR1rkowsxevJAFrkNBOPvI")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5627547811:AAEN3aCsJgyKThrQSX2ODKFPDvOJCHo8Qa0")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "11973721"))
@@ -49,7 +49,7 @@ if os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True':
 else:
     DISABLE_CHANNEL_BUTTON = False
 
-BOT_STATS_TEXT = "<b>Bot Status</b>\n<b>{uptime}</b>"
+BOT_STATS_TEXT = "<b>Bot Uptime Status</b>\n<b>{uptime}</b>"
 USER_REPLY_TEXT = "<b>❌ Invalid Comment..! This Comment Only Access Owner or Admins So you Can Get File Links From : hmtd-movies.blogspot.com or @HMTD_Links</b>"
 
 ADMINS.append(OWNER_ID)
