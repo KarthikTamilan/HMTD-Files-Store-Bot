@@ -58,7 +58,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/KarthikTamilan/HMTD-Files-Store-Bot
-cd HMTD-Files-Store-Bot
+cd HMTD Files Store Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
