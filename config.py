@@ -50,7 +50,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 BOT_STATS_TEXT = "<b>Bot Uptime Status</b>\n<b>{uptime}</b>"
-USER_REPLY_TEXT = "<b>❌ Invalid Comment..! This Comment Only Access Owner or Admins So you Can Get File Links From : hmtd-movies.blogspot.com or @HMTD_Links</b>"
+USER_REPLY_TEXT = "<b>❌ Invalid Comment..! This Comment Only Access Owner or Admins So you Can Get File Links From : hmtdmovies.tk or @HMTD_Links</b>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1391556668)
